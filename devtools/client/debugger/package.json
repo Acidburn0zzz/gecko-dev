@@ -162,7 +162,7 @@
     "remark-validate-links": "^8.0.0",
     "rimraf": "^2.6.1",
     "single-line-log": "^1.1.2",
-    "stylelint": "^9.0.0",
+    "stylelint": "^15.10.1",
     "webpack": "^3.5.5",
     "webpack-visualizer-plugin": "^0.1.11",
     "workerjs": "github:jasonLaster/workerjs#1944c8b753cc9e84b6ed0cb2fbcaa25600706446"
